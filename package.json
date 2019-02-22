@@ -1,0 +1,22 @@
+{
+  "name": "webcomic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "getImages.js",
+  "dependencies": {
+    "request": "^2.88.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skjegg/webcomic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skjegg/webcomic/issues"
+  },
+  "homepage": "https://github.com/skjegg/webcomic#readme"
+}
